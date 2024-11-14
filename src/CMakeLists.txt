@@ -1,1 +1,5 @@
+add_subdirectory(Graph)
+add_subdirectory(LinkedList)
+add_subdirectory(Stack)
+add_subdirectory(Tree)
 add_subdirectory(Queue)
